@@ -1,7 +1,7 @@
-site de café
+Coffee website
 
-entre no link:
+enter the link:
 
 https://szcleiton.github.io/BalleCoffee-CsZ/
 
-Em breve novidades funcionais
+Functional news coming soon
